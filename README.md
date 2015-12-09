@@ -136,10 +136,9 @@ drawable
 ```
 
 ## About me
-```java
-    oder jungletian = new Colder();
-    jungletian.nickName  = "JungleTian";
-    jungletian.weChat  = "ztj234167515";
-    jungletian.webSite = "http://jungletian.github.io";
-```
+
+tjsummery@hotmail.com
+
+<img src="/screenshot/wechat.png" alt="screenshot" title="screenshot" 
+width="150" height="150" /> 
 
