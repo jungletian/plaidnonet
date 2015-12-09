@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/build/intermediates/res/merged/release/animator/plaid_nonet_show_connection_line.xml",
+        "source": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/src/main/res/animator/plaid_nonet_show_connection_line.xml"
+    },
+    {
+        "merged": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/build/intermediates/res/merged/release/animator/plaid_nonet_button_frown.xml",
+        "source": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/src/main/res/animator/plaid_nonet_button_frown.xml"
+    },
+    {
+        "merged": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/build/intermediates/res/merged/release/animator/plaid_nonet_show_connection_cross.xml",
+        "source": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/src/main/res/animator/plaid_nonet_show_connection_cross.xml"
+    }
+]
