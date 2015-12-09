@@ -4,7 +4,7 @@ Vector establishment vector diagram, with xml show no network prompt (with
 animation).This idea source from the awesome project [Plaid](https://github.com/nickbutcher/plaid) .
 
 ## Introduction
-You can see the detail on my pages [JungleTian](http://jungletian.github.io/)
+You can see the detail on my pages [JungleTian](http://jungletian.github.io/2015/12/09/%E4%BD%BF%E7%94%A8Vector%E6%A0%87%E7%AD%BE%E7%BB%98%E5%88%B6%E5%9B%BE%E7%89%87/)
 . The core code is the ```xml <vector ...>``` tag.
 
 ## ScreenShots
