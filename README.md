@@ -1,9 +1,11 @@
 # Plaid-network-error
 
-Vector establishment vector diagram, with xml show no network prompt (with animation). this idea source from the awesome project [Plaid](https://github.com/nickbutcher/plaid) .
+Vector establishment vector diagram, with xml show no network prompt (with 
+animation).This idea source from the awesome project [Plaid](https://github.com/nickbutcher/plaid) .
 
 ## Introduction
-You can see the detail on my pages [JungleTian](http://jungletian.github.io/).
+You can see the detail on my pages [JungleTian](http://jungletian.github.io/)
+. The core code is the ```xml <vector ...>``` tag.
 
 ## ScreenShots
 
@@ -131,5 +133,13 @@ drawable
         android:strokeColor="@color/background_dark"/>
 
 </vector>
+```
+
+## About me
+```java
+    oder jungletian = new Colder();
+    jungletian.nickName  = "JungleTian";
+    jungletian.weChat  = "ztj234167515";
+    jungletian.webSite = "http://jungletian.github.io";
 ```
 
