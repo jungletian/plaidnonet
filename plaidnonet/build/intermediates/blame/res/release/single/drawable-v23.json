@@ -2,5 +2,9 @@
     {
         "merged": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/build/intermediates/res/merged/release/drawable-v23/abc_control_background_material.xml",
         "source": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/res/merged/release/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-v23/abc_control_background_material.xml"
     }
 ]

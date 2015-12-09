@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
         "merged": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
         "source": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_out.xml"
     },
@@ -8,12 +16,36 @@
         "source": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
+        "merged": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
         "merged": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
         "source": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_bottom.xml"
     },
     {
+        "merged": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_in.xml"
+    },
+    {
         "merged": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
         "source": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_top.xml"
     },
     {
         "merged": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
@@ -28,6 +60,10 @@
         "source": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_exit.xml"
     },
     {
+        "merged": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_exit.xml"
+    },
+    {
         "merged": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
         "source": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
@@ -38,5 +74,9 @@
     {
         "merged": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
         "source": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_grow_fade_in_from_bottom.xml"
     }
 ]

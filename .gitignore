@@ -1,8 +1,25 @@
+# Ignore file
 *.iml
-.gradle
+*.apk
+.idea/
+
+# Local configuration file (sdk path, etc)
 /local.properties
-/.idea/workspace.xml
-/.idea/libraries
-.DS_Store
-/build
+/.idea
 /captures
+
+# Mac system files
+.DS_Store
+
+# Ignore gradle files
+build/
+.gradle/
+
+# generated files
+bin/
+gen/
+
+# Eclipse project
+.classpath
+.project
+.settings/

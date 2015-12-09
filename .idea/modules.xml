@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plaid-network-error.iml" filepath="$PROJECT_DIR$/plaid-network-error.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plaidnonet/plaidnonet.iml" filepath="$PROJECT_DIR$/plaidnonet/plaidnonet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plaidnonet.iml" filepath="$PROJECT_DIR$/plaidnonet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plaidnonet/plaidnonet-plaidnonet.iml" filepath="$PROJECT_DIR$/plaidnonet/plaidnonet-plaidnonet.iml" />
     </modules>
   </component>
 </project>

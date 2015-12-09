@@ -4,8 +4,20 @@
         "source": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/build/intermediates/bundles/debug/res/animator/button_frown.xml"
     },
     {
+        "merged": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/res/merged/androidTest/debug/animator/plaid_nonet_show_connection_cross.xml",
+        "source": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/bundles/debug/res/animator/plaid_nonet_show_connection_cross.xml"
+    },
+    {
         "merged": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/build/intermediates/res/merged/androidTest/debug/animator/show_connection_line.xml",
         "source": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/build/intermediates/bundles/debug/res/animator/show_connection_line.xml"
+    },
+    {
+        "merged": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/res/merged/androidTest/debug/animator/plaid_nonet_button_frown.xml",
+        "source": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/bundles/debug/res/animator/plaid_nonet_button_frown.xml"
+    },
+    {
+        "merged": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/res/merged/androidTest/debug/animator/plaid_nonet_show_connection_line.xml",
+        "source": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/bundles/debug/res/animator/plaid_nonet_show_connection_line.xml"
     },
     {
         "merged": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/build/intermediates/res/merged/androidTest/debug/animator/show_connection_cross.xml",

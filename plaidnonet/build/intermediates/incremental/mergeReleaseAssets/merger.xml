@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/src/main/assets"/></dataSet><dataSet config="release"><source path="/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/src/release/assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/src/main/assets"/></dataSet><dataSet config="release"><source path="/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/src/release/assets"/></dataSet></merger>

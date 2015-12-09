@@ -2,5 +2,9 @@
     {
         "merged": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
         "source": "/Users/zhangtianjun/Workspace/repository/plaid-network-error/plaidnonet/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/zhangtianjun/Workspace/github/plaidnonet/plaidnonet/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color-v23/abc_color_highlight_material.xml"
     }
 ]
