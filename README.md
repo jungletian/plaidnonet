@@ -1,5 +1,5 @@
 # Plaid-network-error
-
+[ ![Download](https://api.bintray.com/packages/jungletian/maven/plaidnonet/images/download.svg) ](https://bintray.com/jungletian/maven/plaidnonet/_latestVersion)
 Vector establishment vector diagram, with xml show no network prompt (with 
 animation).This idea source from the awesome project [Plaid](https://github.com/nickbutcher/plaid) .
 
