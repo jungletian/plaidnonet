@@ -17,6 +17,10 @@ width="270" height="486" />
 width="270" height="486" /> 
 
 ## Use
+Gradle：
+```gradle
+    compile 'com.github.jungletian.plaidnonet:plaidnonet:1.0.0'
+```
 
 layout:
 ```xml
