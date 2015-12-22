@@ -20,7 +20,7 @@ width="270" height="486" />
 ## Use
 Gradle：
 ```gradle
-    compile compile 'com.github.jungletian:plaidnonet:1.1.0'
+    compile 'com.github.jungletian:plaidnonet:1.1.0'
 ```
 
 layout:
