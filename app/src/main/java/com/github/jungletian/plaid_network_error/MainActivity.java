@@ -6,7 +6,6 @@ import android.view.View;
 import com.github.jungletian.plaidnonet.Plaidnonet;
 
 public class MainActivity extends AppCompatActivity {
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
